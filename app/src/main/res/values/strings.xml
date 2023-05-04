@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Wk3BillCalculator</string>
+    <string name="svsdisabled">NO SVS</string>
+    <string name="svsenabled">SVS</string>
+    <string name="gstdisabled">NO GST</string>
+    <string name="gstenabled">GST</string>
+    <string name="reset">RESET</string>
+    <string name="split">SPLIT</string>
 </resources>
